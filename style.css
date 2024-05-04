@@ -1,0 +1,82 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.nav {
+  background-color: #ff90bc;
+  padding: 15px;
+}
+.nav-link {
+  color: #f9f9e0;
+  font-size: 1.5em;
+}
+.row {
+  align-items: center;
+}
+
+/* Home */
+.row p {
+  font-size: 1.5em;
+  padding-left: 30px;
+}
+#profil {
+  background-image: url("/gambar/download.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+  padding-top: 10vh;
+}
+#profil .pendidikan {
+  font-size: 1.2em;
+  padding-left: 30px;
+}
+img {
+  width: 300px;
+  height: 300px;
+  border-radius: 200px;
+}
+
+/* project */
+.project {
+  width: 100%;
+  padding-left: 20px;
+}
+.project h3 {
+  justify-content: center;
+  text-align: center;
+  margin-top: 20px;
+}
+.figure {
+  height: 150px;
+}
+
+/* About */
+#About {
+  padding: 20px;
+}
+#About .anak {
+  font-size: 1.2em;
+}
+
+/* footer */
+footer {
+  background-color: #ff90bc;
+  color: #f9f9e0;
+  padding: 20px;
+  text-align: center;
+}
+
+.social-media {
+  margin-bottom: 10px;
+}
+
+.social-link {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.social-link img {
+  width: 30px;
+  height: 30px;
+}
